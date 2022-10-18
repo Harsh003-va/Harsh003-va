@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align = center> My Profile </h1>
 
+<h2 align=center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E7&width=435&lines=Hello!++I'm+Harshavardhan;I+am+Fullstack+Developer;I+am+interested+in++Ai;I'm+Information+Technology+Student.)](https://git.io/typing-svg)
 
 
