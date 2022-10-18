@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E7&width=435&lines=Hello!++I'm+Harshavardhan;I+am+Fullstack+Developer;I+am+interested+in++Ai;I'm+Information+Technology+Student.)](https://git.io/typing-svg)
 
 
-  <h2> MY Stats </h2>
+  <h2> MY STATS </h2>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Harsh003-va&theme=blueberry_duo)](https://git.io/streak-stats)
