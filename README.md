@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Harsh003  stats](https://github-readme-stats.vercel.app/api?username=Harsh003-va&show_icons=true&theme=algolia)
 
- ![Harsh003 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh003-va&theme=merko&show_icons=true&hide_border=true&layout=compact)
+ ![Harsh003 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh003-va&theme=algolia&show_icons=true&hide_border=true&layout=compact)
