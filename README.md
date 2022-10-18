@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 
   <h2> MY STATS </h2>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh003-va&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh003-va&theme=algolia)](https://git.io/streak-stats)
 
 ![Harsh003  stats](https://github-readme-stats.vercel.app/api?username=Harsh003-va&show_icons=true&theme=algolia)
