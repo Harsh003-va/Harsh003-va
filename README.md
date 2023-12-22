@@ -3,8 +3,8 @@
 Harsh003-va/Harsh003-va is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align = center src=https://hvaportfolio.netlify.app/> <p align=center> Visit My </p>Profile </h3>
 
+   <h4  align=center>my Profile</h4>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+i'm+Harshvardhan;+I'M+Fullstack+Developer;I'M+Information+Technology+Student.;I'm+interested+in+Ai)](https://git.io/typing-svg)
 
